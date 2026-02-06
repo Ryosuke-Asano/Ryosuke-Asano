@@ -73,3 +73,18 @@ Sub: <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%
 | :--- | :--- | :--- |
 | **[Floorp Browser](https://github.com/Floorp-Projects/Floorp)** | The most customizable Firefox-based browser. <br> ✨ *IPA Mitou 2025 Project* | ![TypeScript](https://img.shields.io/badge/-TS-3178C6) ![C++](https://img.shields.io/badge/-C++-00599C) ![Gecko](https://img.shields.io/badge/-Gecko-orange) |
 | **[Floorp Website](https://github.com/Floorp-Projects/floorp.app)** | Official website & Documentation. | ![Vite](https://img.shields.io/badge/-Vite-646CFF) ![Vue](https://img.shields.io/badge/-Vue-4FC08D) |
+
+---
+
+### 📰 Media & Articles
+
+I have been featured in various media outlets regarding my development activities.
+
+- **[Levtech (レバテック)](https://levtech.jp/media/article/focus/detail_621/)** <br>
+  Interview: The story behind the development of Floorp by a student engineer. (開発者インタビュー記事)
+- **[Forest Watch (窓の杜)](https://forest.watch.impress.co.jp/library/software/floorp/)** <br>
+  Featured in the "Forest Watch Library" as a recommended software. (窓の杜ライブラリ掲載)
+- **[Yahoo! JAPAN News](https://news.yahoo.co.jp/articles/1acd564934f664ad56cb7a11f1771115d2ac19b8)** <br>
+  Featured in a major Japanese news outlet. (Yahoo!ニュース掲載)
+- **[YouTube Review](https://www.youtube.com/watch?v=bQlgfrlHnSg)** <br>
+  Comprehensive review and tutorial video. (解説・レビュー動画)
