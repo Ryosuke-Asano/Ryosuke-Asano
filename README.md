@@ -11,6 +11,16 @@
   <img src="https://img.shields.io/badge/Project-Floorp-purple?style=for-the-badge&logo=firefoxbrowser" alt="Floorp">
 </a>
 
+  <a href="https://github.com/Ryosuke-Asano/">
+    <img src="https://komarev.com/ghpvc/?username=Ryosuke-Asano&style=flat-square" alt="Ryosuke-Asano" />
+  </a>
+  <a href="http://twitter.com/Ryosuke-Asano">
+    <img height="20" src="https://img.shields.io/twitter/follow/Ryosuke-Asano?style=flat-square" />
+  </a>
+  <a href="https://github.com/Ryosuke-Asano">
+    <img height="20" src="https://img.shields.io/github/followers/Ryosuke-Asano?label=follow&logo=github&style=flat-square" />
+  </a>
+
 <p>
   <b>Browser Engineer / Full-Stack Developer / Student</b><br>
   Building the most customizable browser based on Firefox.
