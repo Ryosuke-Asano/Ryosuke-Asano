@@ -35,7 +35,7 @@
 ### 🧐 About Me (English)
 
 - 🔭 I’m currently working on **Floorp Browser**.
-- 🏆 **IPA Mitou 2025 Creator** (IPA未踏2025年度クリエータ).
+- 🏆 **IPA Mitou 2025 Super Creator** (IPA未踏2025年度スーパークリエータ).
 - 🌱 I’m currently learning **Low-level Browser Architecture (Gecko)**, **OS Fundamentals**, and **AI Agents (MCP)**.
 - 💬 Ask me about **Browser Development, React, GitHub Actions, and Open Source Management.**
 - 📫 Reach me at: **[r.asano@mail.floorp.app](mailto:r.asano@mail.floorp.app)**
